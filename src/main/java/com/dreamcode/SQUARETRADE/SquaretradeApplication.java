@@ -1,7 +1,8 @@
 package com.dreamcode.SQUARETRADE;
 
 import com.dreamcode.SQUARETRADE.models.Category;
-import com.dreamcode.SQUARETRADE.services.GeneralTree;
+import com.dreamcode.SQUARETRADE.models.implementations.CategoryTree;
+import com.dreamcode.SQUARETRADE.DAOs.GeneralTree;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

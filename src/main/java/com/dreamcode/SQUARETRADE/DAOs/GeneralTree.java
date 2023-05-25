@@ -1,7 +1,4 @@
-package com.dreamcode.SQUARETRADE.services;
-import com.dreamcode.SQUARETRADE.models.Category;
-
-import java.util.List;
+package com.dreamcode.SQUARETRADE.DAOs;
 
 public interface GeneralTree<T> {
     T root();

@@ -1,10 +1,10 @@
 package com.dreamcode.SQUARETRADE;
 
 import com.dreamcode.SQUARETRADE.models.Category;
-import com.dreamcode.SQUARETRADE.services.GeneralTree;
+import com.dreamcode.SQUARETRADE.models.implementations.CategoryTree;
+import com.dreamcode.SQUARETRADE.DAOs.GeneralTree;
 import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.Test;
-import org.springframework.boot.SpringApplication;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import static org.junit.jupiter.api.Assertions.*;

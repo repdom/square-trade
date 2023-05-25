@@ -1,9 +1,5 @@
 package com.dreamcode.SQUARETRADE.models;
 
-import com.dreamcode.SQUARETRADE.CategoryTree;
-
-import java.util.List;
-
 public class Category {
     private String name;
     private String keywords;

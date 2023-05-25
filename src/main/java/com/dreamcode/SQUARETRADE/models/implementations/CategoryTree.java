@@ -1,7 +1,7 @@
-package com.dreamcode.SQUARETRADE;
+package com.dreamcode.SQUARETRADE.models.implementations;
 
+import com.dreamcode.SQUARETRADE.DAOs.GeneralTree;
 import com.dreamcode.SQUARETRADE.models.Category;
-import com.dreamcode.SQUARETRADE.services.GeneralTree;
 
 import java.util.LinkedList;
 import java.util.List;
